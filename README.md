@@ -10,21 +10,20 @@ Introductions can be a bit challenging, but here we go. My name is Alberto Akel,
 - 💬 Ask me anythink about science. A talk a lot!
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
-<p align="center">  
-Skills
-</p>  
+[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=albertoakel)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">Skills ⚡</h3>
+
 <p align="center"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,anaconda,py,matlab,fortran,ubuntu,latex&theme=light" />
   </a>
 </p>
 
-<p align="center">  
-  [![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=albertoakel)](https://github.com/anuraghazra/github-readme-stats)
-</p>  
+<h4 align="center">Page under construction with weekly updates <h4>
 
 
-<p align="center">  
-Page under construction with weekly updates
-</p> 
+
+
+
 

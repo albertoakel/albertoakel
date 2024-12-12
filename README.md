@@ -1,12 +1,13 @@
 
 ![Banner](https://github.com/albertoakel/albertoakel/blob/main/perfil1_albertoakel.PNG)
 
-Introductions are always a bit difficult, but okay. My name is Alberto Akel and depending on where you know me, I am something. If you are here, you are probably not part of my running group, or the photography club. Academically, I am a geophysicist, with a master's degree in geophysics and a doctorate in electrical engineering. I have worked most of my life with science, mathematics, physics and enough programming for my activities. In recent years, I have dedicated myself to teaching at the undergraduate level and to scientific communication. I am currently seeking new professional opportunities in the field of data science.
+Introductions can be a bit challenging, but here we go. My name is Alberto Akel, and depending on how you know me, I might wear different hats. If you're here, you are probably not part of my running group or the photography club. Academically, I am a geophysicist with a master's degree in geophysics and a doctorate in electrical engineering. Most of my career has been dedicated to science, mathematics, physics, and enough programming to support my activities. In recent years, I have focused on undergraduate teaching and scientific communication. I am currently seeking new professional opportunities in the field of data science
 
-highlines
-- 🌱 my first language was Fortran.
-- 🔭 I really prefer to work in a Linux environment instead of Windows
-- 😀 I'm a marathon runner
+highlights 
+- 🌱 my first language was Fortran;
+- 🔭 I prefer working in a Linux environment rather than Windows;
+- 😀 I'm a marathon runner and wake-up 4:20 am many times
+- 😀 I designed part of the furniture in my house;
 - 💬 Ask me anythink about science. A talk a lot!
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 

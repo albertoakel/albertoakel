@@ -10,12 +10,13 @@ highlights
 - 💬 Ask me anythink about science. A talk a lot!
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
+
 <p align="center">  
-<h2>Skills</h2>
+Skills
 </p>  
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,anaconda,py,matlab,fortran,ubuntu,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=github,anaconda,py,,matlab,fortran,ubuntu,latex&theme=light" />
   </a>
 </p>
 

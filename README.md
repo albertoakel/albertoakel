@@ -16,7 +16,7 @@ Introductions can be a bit challenging, but here we go. My name is Alberto Akel,
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,anaconda,py,matlab,fortran,ubuntu,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=github,anaconda,py,matlab,fortran,ubuntu,latex,docker&theme=light" />
   </a>
 </p>
 
